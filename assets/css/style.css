@@ -1,0 +1,57 @@
+.custom-nav {
+    color: #6C63FF;
+    font-family: 'Bebas Neue';
+    font-size: x-large;
+}
+
+.sec-head {
+    margin-top: 10%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.sec-headtwo {
+    margin-top: 5%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+.sec-sub {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.course-link {
+    text-decoration: none;
+    color: black;
+}
+
+.course-link:hover {
+    color: black;
+}
+
+.row-container {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.foo-sec {
+    margin-top: 10%;
+}
+
+.cou-info-head {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    
+
+}
+
+.info-text-container {
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 26px;
+}
+
+.info {
+    background-color: rgb(205, 235, 247);
+}
